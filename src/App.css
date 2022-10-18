@@ -1,0 +1,27 @@
+.App {
+  background-color: rgb(143, 203, 122);
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid rgb(96, 119, 88);
+  border-radius: 4px;
+  box-shadow: 8px rgb(36, 44, 33);
+}
+.child {
+  background-color: rgb(158, 227, 133);
+  width: 60%;
+  margin: 4px auto;
+  padding: 10px;
+  border: 1px solid rgb(70, 88, 64);
+  border-radius: 4px;
+  box-shadow: 8px rgb(210, 217, 208);
+}
+.post {
+  background-color: rgb(244, 190, 102);
+  width: 90%;
+  margin: 2px auto;
+  padding: 4px;
+  border: 1px solid rgb(70, 88, 64);
+  border-radius: 2px;
+  box-shadow: 8px rgb(210, 217, 208);
+}
